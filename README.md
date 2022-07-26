@@ -2,7 +2,7 @@
 
 <p>My CV can be found <a href="https://github.com/jimmy-lyons/CV">here</a>.
 
-<p>I am always excited to deepen my knowledge of existing langauges and love learning new ones. Next up Python!</p>
+<p>I am always excited to deepen my knowledge of existing langauges and love learning new ones.</p>
 
 <p>I approach all my projects using TDD.</p>
 
