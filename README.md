@@ -2,12 +2,6 @@
 
 <p>My CV can be found <a href="https://github.com/jimmy-lyons/CV">here</a>.
 
-<p>I am always excited to deepen my knowledge of existing langauges and love learning new ones.</p>
-
-<p>I approach all my projects using TDD.</p>
-
-<p>I am currently searching for my first software developer role.</p>
-
 <p>Please get in touch with me via <a href="https://www.linkedin.com/in/jimmy-lyons-73a518b0/">Linked in</a>.
 
 #### Languages and Tools:
